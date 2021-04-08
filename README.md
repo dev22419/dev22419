@@ -2,7 +2,7 @@
 
 <a href='https://www.linkpicture.com/view.php?img=LPic606d369c26342937531865'><img src='https://www.linkpicture.com/q/jing.fm-hacker-clip-art-3531731.png' type='image'></a>
 
-<P aling="center">
+<P align="center">
 <img src='https://img.shields.io/badge/GitHub-dev22419-green?style=flat-square&logo=GitHub' type='image'>
 </P>
 
