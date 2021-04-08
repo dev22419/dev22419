@@ -6,8 +6,6 @@
 <img src='https://img.shields.io/badge/GitHub-dev22419-green?style=for-the-badge&logo=GitHub' type='image'>
 </P>
 
-<img src='https://raw.githubusercontent.com/dev22419/image/main/Screenshot_2021-04-08-09-54-20-824_com.termux.jpg?token=ASAZIYXEKUDRJFZWUQDEUU3AN2GI6' >
-
 
 
 <!--
