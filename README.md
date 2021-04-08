@@ -1,4 +1,4 @@
-### Hi , everybody i am dev22419 👋
+### Hi,everybody i am dev22419.
 
 <a href='https://www.linkpicture.com/view.php?img=LPic606d369c26342937531865'><img src='https://www.linkpicture.com/q/jing.fm-hacker-clip-art-3531731.png' type='image'></a>
 
