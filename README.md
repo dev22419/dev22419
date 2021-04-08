@@ -1,5 +1,12 @@
 ### Hi , everybody i am dev22419 👋
 
+<a href='https://www.linkpicture.com/view.php?img=LPic606d369c26342937531865'><img src='https://www.linkpicture.com/q/jing.fm-hacker-clip-art-3531731.png' type='image'></a>
+
+
+
+
+
+
 <!--
 **dev22419/dev22419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
