@@ -4,6 +4,7 @@
 
 <P align="center">
 <img src='https://img.shields.io/badge/GitHub-dev22419-green?style=flat-square&logo=GitHub' type='image'>
+<img src='https://img.shields.io/badge/GitHub-dev22419-green?style=for-the-badge&logo=GitHub' type='image'>
 </P>
 
 
