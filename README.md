@@ -5,7 +5,7 @@
 <p align="center">
 <img src='https://img.shields.io/badge/GitHub-dev22419-green?style=for-the-badge&logo=GitHub' type='image'>
 
-<img src='https://img.shields.io/badge/Website-visit-green?style=for-the-badge&logo=blogger' type='image'>
+<a href='https://dev22419.blogshot.com/'><img src='https://img.shields.io/badge/Website-visit-green?style=for-the-badge&logo=blogger' type='image'></a>
 </p>
 
 
