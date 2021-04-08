@@ -4,9 +4,8 @@
 
 <p align="center">
 <img src='https://img.shields.io/badge/GitHub-dev22419-green?style=for-the-badge&logo=GitHub' type='image'>
-</p>
-<p align="center">
-<img src'https://img.shields.io/badge/Website-visit-brightgreen?style=for-the-badge&logo=blogger' type='image'>
+
+<img src='https://img.shields.io/badge/Website-visit-green?style=for-the-badge&logo=blogger' type='image'>
 </p>
 
 
