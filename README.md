@@ -3,7 +3,7 @@
 <a href='https://www.linkpicture.com/view.php?img=LPic606d369c26342937531865'><img src='https://www.linkpicture.com/q/jing.fm-hacker-clip-art-3531731.png' type='image'></a>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dev22419/image/main/Screenshot_2021-04-08-09-54-20-824_com.termux.jpg?token=ASAZIYQMG7VJZOI34QRB473AOE7EW" type='image'>
+<img src="https://raw.githubusercontent.com/dev22419/image/main/logo2.png?token=ASAZIYWE5V4CGNQDLUE2ZULAOE7KO" type='image'>
 </p>
 
 <p align="center">
