@@ -3,7 +3,7 @@
 <a href='https://www.linkpicture.com/view.php?img=LPic606d369c26342937531865'><img src='https://www.linkpicture.com/q/jing.fm-hacker-clip-art-3531731.png' type='image'></a>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dev22419/image/main/logo2.png?token=ASAZIYWE5V4CGNQDLUE2ZULAOE7KO" type='image'>
+<img src="file:///sdcard/html/logo.png" type='image'>
 </p>
 
 <p align="center">
